@@ -88,11 +88,8 @@ ansible-playbook -i inventory apache-setup.yml
 ### 6. Verificar o resultado
 Acesse o endereço do servidor no navegador: http://192.168.1.10 (substitua pelo IP do seu servidor).
 Você verá a página personalizada criada no passo 4.
-
-
-
-
-Gabriel Neri Ferreira Santos - 20203018973
-Marcelo Morais Barbosa - 20203014713
-Wagner Augusto Álvares de Freitas Filho - 20223002756
-Caio Cézar Miranda Carvalho - 20223002200
+### Integrantes do grupo
+Gabriel Neri Ferreira Santos - 20203018973 <br>
+Marcelo Morais Barbosa - 20203014713 <br>
+Wagner Augusto Álvares de Freitas Filho - 20223002756 <br>
+Caio Cézar Miranda Carvalho - 20223002200 <br>
